@@ -1,0 +1,22 @@
+{
+  "name": "firebase-messaging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "messaging.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billykagwe/firebase-notification.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billykagwe/firebase-notification/issues"
+  },
+  "homepage": "https://github.com/billykagwe/firebase-notification#readme",
+  "dependencies": {
+    "firebase": "^9.10.0"
+  }
+}
